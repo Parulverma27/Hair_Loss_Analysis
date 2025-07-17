@@ -1,2 +1,2 @@
 # Hair_Loss_Analysis
-Project of Internship
+Internship Project
