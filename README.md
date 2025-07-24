@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hair Loss Prediction Project
 
 This project analyzes factors contributing to hair loss and implements machine learning models to predict the likelihood of hair fall.
@@ -28,3 +29,7 @@ pip install -r requirements.txt
 ## Run Model Training
 ```bash
 python scripts/model_training.py
+=======
+# Hair_Loss_Analysis
+Internship Project
+>>>>>>> 55fdd7a691ae2feb0d69d6e6b108c8ecaa3aad3e
